@@ -1,2 +1,5 @@
 cred/
 config.py
+
+*.pyc
+*.log
